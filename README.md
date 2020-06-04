@@ -12,10 +12,10 @@
 
 # 第一周作业
 ## 1.论文学习笔记
-![论文笔记](*/Lesson1_Assignment/Paper_Note.png.jpg)
+![image](https://github.com/lemonxixixi/Hacking-Design-AI-2020/blob/master/Lesson1_Assignment/Paper_Note.png)
 
 ## 2.智能设计系统的软件架构图
-
+![image](Lesson1_Assignment/Structure_of_Intelligent_Design.png)
 ## 3.代码骨架
 目前仍在熟悉python的语法和上述功能实现的结构解析，
 申请延迟提交该部分作业
