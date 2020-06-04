@@ -12,6 +12,7 @@
 
 # 第一周作业
 ## 1.论文学习笔记
+![论文笔记](Lesson1_Assignment/Paper_Note.png.jpg)
 
 ## 2.智能设计系统的软件架构图
 
