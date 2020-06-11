@@ -17,5 +17,4 @@
 ## 2.智能设计系统的软件架构图
 ![image](Lesson1_Assignment/Structure_of_Intelligent_Design.png)
 ## 3.代码骨架
-目前仍在熟悉python的语法和上述功能实现的结构解析，
-申请延迟提交该部分作业
+已完善提交到相应文件夹
