@@ -18,3 +18,9 @@
 ![image](Lesson1_Assignment/Structure_of_Intelligent_Design.png)
 ## 3.代码骨架
 已完善提交到相应文件夹
+
+# 第二周作业
+## 1.配色算法的软件架构图
+![image] 
+## 2.代码骨架
+已提交到相应文件夹
